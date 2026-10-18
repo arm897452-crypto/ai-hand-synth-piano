@@ -1,0 +1,1 @@
+No Python dependencies. Requires a modern browser, HTTPS camera permission, and internet access to load MediaPipe assets.
